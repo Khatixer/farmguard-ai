@@ -60,7 +60,7 @@ npm install
 ```
 
 3. **Configure your environment:**
-Make a `config.ts` file with your API keys:
+Edit the `config.ts` file with your API keys:
 ```typescript
 import { createClient } from '@supabase/supabase-js';
 
@@ -142,4 +142,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Google Gemini AI for powerful plant disease recognition
 - Supabase for seamless backend infrastructure
+
 - The global farming community for inspiring this solution
