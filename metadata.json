@@ -1,0 +1,7 @@
+{
+  "name": "FarmGuard AI",
+  "description": "An offline-capable AI companion for farmers to diagnose plant diseases, access organic remedies, and track crop recovery impact.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
